@@ -78,6 +78,7 @@ class Csv {
     }
 
     this.object = object;
+    return object;
   }
 }
 
